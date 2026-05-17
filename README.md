@@ -1,31 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0f0f,50:1a1a2e,100:00C2FF&text=Gabriel%20Melo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20•%20Digital%20Systems%20•%20Creative%20Builder&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,100:00C2FF&text=Gabriel%20Melo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20•%20Digital%20Systems%20•%20Creative%20Builder&descAlignY=58"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Digital+Solutions;AI+Automation+Developer;Creating+Scalable+Workflows;Turning+Ideas+Into+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Digital+Solutions;AI+Automation+Developer;Creating+Scalable+Workflows;Turning+Ideas+Into+Systems"/>
 
-<br/>
-<br/>
+<br>
+<br>
 
 <a href="mailto:gabrielmelo2010@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://wa.link/okzgjn">
-<img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabrielrmelo/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f6d5d529-4a7c-4f6d-bc1f-2f8f8f9f6f47.gif" width="100%">
 
 # 🧠 Digital Builder
 
@@ -67,36 +65,30 @@ mindset:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f6d5d529-4a7c-4f6d-bc1f-2f8f8f9f6f47.gif" width="100%">
-
 # 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,tailwind,git,github,docker,vercel,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,tailwind,git,github,docker,vercel,vscode&theme=dark"/>
 
-<br/>
-<br/>
+<br>
+<br>
 
-<img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Integrations-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f6d5d529-4a7c-4f6d-bc1f-2f8f8f9f6f47.gif" width="100%">
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BielRMelo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BielRMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielRMelo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BielRMelo&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -106,7 +98,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BielRMelo&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BielRMelo&theme=tokyonight"/>
 
 </div>
 
@@ -116,13 +108,11 @@ mindset:
 
 <div align="center">
 
-[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BielRMelo&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff&area=true&hide_border=true)](https://github.com/BielRMelo)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BielRMelo&theme=tokyo-night"/>
 
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-f6d5d529-4a7c-4f6d-bc1f-2f8f8f9f6f47.gif" width="100%">
 
 # 🚀 Featured Projects
 
@@ -171,6 +161,6 @@ automation, creativity and scalable technology.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,50:1a1a2e,100:00C2FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,100:00C2FF"/>
 
 </div>
