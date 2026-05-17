@@ -1,46 +1,178 @@
-# 💻 Gabriel Melo | Desenvolvedor e Educador em Tecnologia 👋
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmelo2010@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/okzgjn)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrmelo/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0f0f,50:1a1a2e,100:00C2FF&text=Gabriel%20Melo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20•%20Digital%20Systems%20•%20Creative%20Builder&descAlignY=58"/>
 
-![BielRMelo GitHub stats](https://github-readme-stats.vercel.app/api?username=BielRMelo&show_icons=true&theme=dracula)
+<br/>
 
-### Tecnologias que uso no meu dia 👨‍💻
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Digital+Solutions;AI+Automation+Developer;Creating+Scalable+Workflows;Turning+Ideas+Into+Systems" />
 
-<div style="display: inline_block"><br/>
-    <!-- Html5 -->
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <!-- CSS3 -->
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <!-- JavaScript -->
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <!-- Lua -->
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-    <!-- python -->
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+<br/>
+<br/>
 
-#### Sou Gabriel Melo, fundador do Instituto Online ToCode (Em desenvolvimento), uma escola dedicada a ensinar programação de forma acessível e envolvente. Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas, e me dedicando ao desenvolvimento de projetos para aprimorar meu portfólio.
+<a href="mailto:gabrielmelo2010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# 🎓 Educação e Aprendizado:
+<a href="https://wa.link/okzgjn">
+<img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-Formando em Análise e Desenvolvimento de Sistemas <br/>
-Cursos de aprimoramento na Alura, com foco em desenvolvimento web, Python, e tecnologias emergentes
+<a href="https://www.linkedin.com/in/gabrielrmelo/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 🚀 Projetos em Destaque:
+</div>
 
-###### ToCode Academy: Plataforma educacional para ensinar programação, desde lógica básica até linguagens avançadas como Python e C++. Desenvolvendo projetos open-source para contribuir com a comunidade e adquirir novas habilidades técnicas.
+---
 
-# 🤝 Contribuições e Objetivos:
+# 🚀 About Me
 
-###### Busco somar em projetos colaborativos, contribuindo para a comunidade de desenvolvedores enquanto avanço no meu aprendizado. Comprometido em compartilhar conhecimento e ajudar outros desenvolvedores a crescer.
+```yaml
+name: Gabriel Melo
 
-# 🌐 Tecnologias e Ferramentas:
+focus:
+  - AI Automation
+  - Digital Systems
+  - Workflow Optimization
+  - SaaS Development
+  - Creative Tech Solutions
 
-### Linguagens: Python, HTML, CSS, JavaScript
-### Ferramentas: Git, GitHub, Google Classroom, Google Meets
-### Metodologias: Desenvolvimento gradativo
+currently_learning:
+  - AI Agents
+  - Backend Architecture
+  - Advanced Automations
+  - Scalable Systems
 
-# 🎯 Objetivos e sonhos 
-###### Inspirar e capacitar pessoas a explorarem o mundo da programação, enquanto aprimoro minhas habilidades técnicas e compartilho conhecimento com a comunidade.
+mindset:
+  "Building systems that save time, generate value and solve real problems."
+```
+
+---
+
+# 🧠 Current Focus
+
+<div align="center">
+
+| Focus Area | Description |
+|---|---|
+| 🤖 AI Automations | Intelligent workflows and integrations |
+| ⚡ Digital Systems | Building scalable digital structures |
+| 🧩 APIs & Integrations | Connecting platforms and services |
+| 🌐 SaaS Projects | Product validation and MVP development |
+| 🧪 Experimental Labs | Testing creative ideas with AI |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,nextjs,tailwind,git,github,docker,vercel,vscode&theme=dark" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Integrations-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BielRMelo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielRMelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BielRMelo&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BielRMelo&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BielRMelo/BielRMelo/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---|---|
+| 🤖 AI Automation Systems | Intelligent workflows and automation projects |
+| 🌐 Portfolio & Landing Pages | Modern interfaces focused on conversion |
+| 🧠 AI Experiments | Creative AI-driven tools and ideas |
+| ⚡ Productivity Systems | Systems focused on optimization and performance |
+| 📈 Scalable Digital Projects | Building digital products and MVPs |
+
+</div>
+
+---
+
+# 🎯 Vision
+
+```txt
+Creating intelligent digital ecosystems that combine
+automation, creativity and scalable technology.
+```
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="mailto:gabrielmelo2010@gmail.com">
+<img src="https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabrielrmelo/">
+<img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.link/okzgjn">
+<img src="https://img.shields.io/badge/WhatsApp-00C2FF?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,50:1a1a2e,100:00C2FF"/>
+
+</div>
