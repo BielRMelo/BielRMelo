@@ -9,11 +9,11 @@
 <br>
 <br>
 
-<a href="mailto:gabrielmelo2010@gmail.com">
+<a href="mailto:contato@bygabriel.dev">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.link/okzgjn">
+<a href="https://api.whatsapp.com/send?phone=5561981259375&text=Hi%20Gabriel%20%F0%9F%91%8B%2C%20are%20you%20available%20for%20a%20chat%3F">
 <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
