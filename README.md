@@ -25,7 +25,9 @@
 
 ---
 
-# 🚀 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f6d5d529-4a7c-4f6d-bc1f-2f8f8f9f6f47.gif" width="100%">
+
+# 🧠 Digital Builder
 
 ```yaml
 name: Gabriel Melo
@@ -49,7 +51,7 @@ mindset:
 
 ---
 
-# 🧠 Current Focus
+# 🚀 Current Focus
 
 <div align="center">
 
@@ -64,6 +66,8 @@ mindset:
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f6d5d529-4a7c-4f6d-bc1f-2f8f8f9f6f47.gif" width="100%">
 
 # 🛠️ Tech Stack
 
@@ -84,13 +88,15 @@ mindset:
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f6d5d529-4a7c-4f6d-bc1f-2f8f8f9f6f47.gif" width="100%">
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BielRMelo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BielRMelo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielRMelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielRMelo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -100,7 +106,7 @@ mindset:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BielRMelo&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=BielRMelo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -110,21 +116,13 @@ mindset:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BielRMelo&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BielRMelo&bg_color=0d1117&color=00c2ff&line=00c2ff&point=ffffff&area=true&hide_border=true)](https://github.com/BielRMelo)
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BielRMelo/BielRMelo/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f6d5d529-4a7c-4f6d-bc1f-2f8f8f9f6f47.gif" width="100%">
 
 # 🚀 Featured Projects
 
